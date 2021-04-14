@@ -1,0 +1,1 @@
+chat.say("/gamma")
