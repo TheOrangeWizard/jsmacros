@@ -22,6 +22,6 @@ scripts with library dependencies require the local path variable to be set to t
 
 unlike macromod or advancedmacros, jsmacros does not support binding code to a key directly or running a script from the editor.
 
-all scripts are run by binding them to a hotkey or event
+all scripts are run by binding a file to a hotkey or event
 
 K by default opens the mod menu - this is configurable in the normal keybindings menu if you have cothconfig installed
