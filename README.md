@@ -24,4 +24,4 @@ unlike macromod or advancedmacros, jsmacros does not support binding code to a k
 
 all scripts are run by binding them to a hotkey or event
 
-J by default opens the mod menu
+K by default opens the mod menu
