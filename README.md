@@ -4,6 +4,8 @@ collection of scripts+library functions intended for use with the jsmacros mod o
 
 ## mods
 
+not presently compatible with jsmacros 1.4+, latest confirmed working is 1.2.9 and jython plugin 1.0.8
+
 requires
 https://www.curseforge.com/minecraft/mc-mods/jsmacros
 
